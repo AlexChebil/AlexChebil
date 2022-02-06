@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **skanderchebil1@gmail.com**
 
-- ⚡ Fun fact **Huge Fan of Oggy and the Cockroaches**
+- ⚡ Fun fact **Wrote My First 'Hello World' At 9 Years Old**
 
 
 
