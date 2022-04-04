@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **gym Workout Planner app**
 
-- 🌱 I’m currently learning **Test Driven Development (TDD) Using Jest And React Native**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **ReactJS, GSAP, Bootstrap, MaterialUI & GitKraken**
 
