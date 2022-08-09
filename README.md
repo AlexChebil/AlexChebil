@@ -6,8 +6,6 @@
 
 🌱 I’m currently learning React Native.
 
-💬 Ask me about ReactJS, MaterialUI & The Front-End Stack In General.
-
 📫 How to reach me skanderchebil1@gmail.com
 
 ⚡ Fun fact Wrote My First 'Hello World' At The Age Of 10.
